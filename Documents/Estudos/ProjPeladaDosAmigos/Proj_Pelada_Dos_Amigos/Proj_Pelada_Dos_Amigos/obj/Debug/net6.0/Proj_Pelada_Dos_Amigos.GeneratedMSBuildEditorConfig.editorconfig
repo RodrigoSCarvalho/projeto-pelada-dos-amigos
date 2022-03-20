@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proj_Pelada_Dos_Amigos
+build_property.RootNamespace = Proj_Pelada_Dos_Amigos
+build_property.ProjectDir = C:\Users\rodri\Documents\Estudos\ProjPeladaDosAmigos\Proj_Pelada_Dos_Amigos\Proj_Pelada_Dos_Amigos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rodri\Documents\Estudos\ProjPeladaDosAmigos\Proj_Pelada_Dos_Amigos\Proj_Pelada_Dos_Amigos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Jogadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Jogadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Jogadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Jogadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Jogadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Potes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Potes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Potes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Potes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Potes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Times/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Times/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Times/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Times/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Times/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rodri/Documents/Estudos/ProjPeladaDosAmigos/Proj_Pelada_Dos_Amigos/Proj_Pelada_Dos_Amigos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oudow1j9dq
