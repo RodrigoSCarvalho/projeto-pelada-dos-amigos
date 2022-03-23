@@ -11,8 +11,8 @@ namespace Proj_Pelada_Dos_Amigos.Models
 
         public string Nome { get; set; }
 
-        public Pote pote { get; set; }
+        public Pote Pote { get; set; }
 
-        public Time time { get; set; }
+        public Time Time { get; set; }
     }
 }
